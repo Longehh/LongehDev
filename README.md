@@ -16,7 +16,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0C1324?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-0C1324?style=flat-square&logo=linux&logoColor=ffffff)
 ![Centos](https://img.shields.io/badge/-Centos-0C1324?style=flat-square&logo=centos&logoColor=ffffff)
-![Kali](https://img.shields.io/badge/-Kali-0C1324?style=flat-square&logo=kali&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github&logoColor=ffffff)
 ![Intelij](https://img.shields.io/badge/-Intelij-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
