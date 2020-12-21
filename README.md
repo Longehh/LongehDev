@@ -1,4 +1,4 @@
-# Welcome 👋!
+# Welcome 👋! [![Visits Badge](https://badges.pufler.dev/visits/Longehh/Longehh)]
 ### 🧔 About Me
 - I mainly code in **Java**, and **Node.js**, but sometimes I code in languages like **PHP**.
 - I have worked with numerous databases as listed below, and am familiar with the setup of the databases on Windows, and UNIX OS.
