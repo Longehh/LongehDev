@@ -12,7 +12,7 @@ to constantly supply clients with updates to their bots.
 **Am I Looking for work?**
 - Currently due to my position at MapleCraft I'm not looking to join any projects, unless I like the idea, and feel like I'd have fun working on it.
 
-### ⌨️ Languges/Databases
+### ⌨️ Languages/Databases
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-0C1324?style=flat-square&logo=PHP&logoColor=ffffff)
