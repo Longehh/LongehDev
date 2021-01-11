@@ -6,11 +6,11 @@
 - You can contact me via Discord: Longeh#0001
 
 ### ⚙️ Current Work
-I'm currently an Operator & Factions Coordinator on MapleCraft *play.maplecraftmc.net*. Aside from this I'm working on a Discord Bot coded in Node.js,
+I'm working on a private project. Aside from this I'm working on a Discord Bot coded in Node.js,
 to constantly supply clients with updates to their bots.
 
 **Am I Looking for work?**
-- Currently due to my position at MapleCraft I'm not looking to join any projects, unless I like the idea, and feel like I'd have fun working on it.
+- Currently as I'm working on a privte project I'm not looking to join any projects, unless I like the idea, and feel like I'd have fun working on it.
 
 ### ⌨️ Languages/Databases
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=ffffff)
