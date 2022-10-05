@@ -1,4 +1,4 @@
-# Welcome 👋! ![Visits Badge](https://badges.pufler.dev/visits/Longehh/Longehh)
+# Welcome 👋!
 ### 🧔 About Me
 - I mainly code in **Java**, and **Node.js**, but sometimes I code in languages like **PHP**.
 - I have worked with numerous databases as listed below, and am familiar with the setup of the databases on Windows, and UNIX OS.
@@ -13,7 +13,7 @@ to constantly supply clients with updates to their bots.
 - Currently as I'm working on a privte project I'm not looking to join any projects, unless I like the idea, and feel like I'd have fun working on it.
 
 ### ⌨️ Languages/Databases
-![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=Oracle&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-0C1324?style=flat-square&logo=PHP&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-0C1324?style=flat-square&logo=html5&logoColor=ffffff)
