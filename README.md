@@ -108,4 +108,5 @@ j2Rf6hfBM0SJyrMVabkMsP8V+RM+7Qqgp8VyT/517ACRD6uXnARFVZUyutySWyv0
 </details>
 <details>
   <summary><strong>Challenge</strong></summary>
+If you wish to verify you are talking to me, you can follow the steps in the CHALLENGE.md file.
 </details>
